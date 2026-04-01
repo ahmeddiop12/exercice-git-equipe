@@ -1,0 +1,3 @@
+-Patient : Aminata Sow ,Symptomes: mal de ventre, fievre
+-Patient : -Ibrahima Ba ,Symptomes: toux, maux de tete
+-Patient : -Awa Diallo ,Symptomes: fatigue
