@@ -1,6 +1,3 @@
-
-Authentification
-Gestion du module d'authentification
-Mis en place du auth
-Mise en place du  login
-Mise en place du signup
+1. Utiliser des mots de passe forts et uniques
+2. Ne jamais partager ses identifiants
+3. Vérifier les accès avant chaque connexion 
